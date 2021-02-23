@@ -17,5 +17,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tayoon&show_icons=true&count_private=true&theme=algolia" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayoon&layout=compact&theme=algolia" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayoon&layout=compact&theme=algolia" />
 </a>
